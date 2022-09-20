@@ -7,8 +7,8 @@
 
 const app = {
   app_id: 123481,
-  title: 'My Awesome E-Com Plus App',
-  slug: 'my-awesome-app',
+  title: 'Beeviral',
+  slug: 'beeviral',
   type: 'external',
   state: 'active',
   authentication: true,
@@ -75,14 +75,14 @@ const app = {
       // 'DELETE',        // Delete categories
     ],
     customers: [
-      // 'GET',           // List/read customers
-      // 'POST',          // Create customers
-      // 'PATCH',         // Edit customers
+      'GET',           // List/read customers
+      'POST',          // Create customers
+      'PATCH',         // Edit customers
       // 'PUT',           // Overwrite customers
       // 'DELETE',        // Delete customers
     ],
     orders: [
-      // 'GET',           // List/read orders with public and private fields
+      'GET',           // List/read orders with public and private fields
       // 'POST',          // Create orders
       // 'PATCH',         // Edit orders
       // 'PUT',           // Overwrite orders
