@@ -4,4 +4,4 @@ Transforme cada venda realizada em novas vendas recompensando clientes atuais po
 
 Beeviral é uma plataforma de Member Get Member integrada com a E-Com.Plus que permitirá a você aumentar até 30% das vendas criando e automatizando a indicação de clientes como um novo canal de aquisição mais barato e com maior taxa de conversão.
 
-https://www.beeviral.com.br/wp-content/uploads/2022/08/2134.jpg
+![beeviral](https://user-images.githubusercontent.com/35343551/191881250-057bcd99-aa1d-4eae-bb76-dbea8947a535.jpg)
