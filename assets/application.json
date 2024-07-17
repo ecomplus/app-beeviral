@@ -34,7 +34,16 @@
     "products/price": [],
     "products/variations/price": []
   },
-  "admin_settings": {},
+  "admin_settings": {
+    "token": {
+      "schema": {
+        "type": "string",
+        "maxLength": 100,
+        "title": "Beeviral token"
+      },
+      "hide": true
+    }
+  },
   "auth_callback_uri": "https://us-central1-ecom-beeviral.cloudfunctions.net/app/ecom/auth-callback",
   "version": "1.0.0"
 }
